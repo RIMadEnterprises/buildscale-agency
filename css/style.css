@@ -135,3 +135,13 @@ font-size:30px;
 }
 
 }
+.hero{
+  background: url("images/hero.jpg") center/cover no-repeat;
+  height: 90vh;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  color:white;
+  text-align:center;
+}
